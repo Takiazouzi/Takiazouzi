@@ -41,6 +41,7 @@
  <hr/>
  
 <h2 align="center">⚒️ ls -la ~/skills ⚒️</h2>
+<br>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,nodejs,typescript,django,react,git,github,vscode" />
@@ -52,13 +53,12 @@
 <br>
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/tree/output/github-contribution-grid-snake.svg" 
     alt="GitHub Contribution Snake - Forgejo Dark" 
     width="100%" 
   />
 </div>
-<br
-
+<br>
 <hr/>
 <h2 align="center"> My GitHub Stats ⚡</h2>
 <br>
