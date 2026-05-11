@@ -6,10 +6,6 @@
   />
 </h1>
 
-<h3 align="center">
-🐧 Offensive Sec Enthusiast | Red Hat | Networking | CTF Player | Always Learning
-</h3>
-
 <br/>
 
 <div align="center">
