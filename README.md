@@ -68,21 +68,9 @@
 
 <br/>
 
-<img height="50" src="https://cdn.simpleicons.org/wireshark/1679A7" />
-<img width="12" />
-<img height="50" src="https://cdn.simpleicons.org/metasploit/2596CD" />
-<img width="12" />
-<img height="50" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
-<img width="12" />
-<img height="50" src="https://cdn.simpleicons.org/postman/FF6C37" />
-<img width="12" />
-<img height="50" src="https://cdn.simpleicons.org/kalilinux/557C94" />
-<img width="12" />
-<img height="50" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
+<img src="https://skillicons.dev/icons?i=postman,powershell,regex,ubuntu,debian,arch&perline=6" />
 
-
-</div>
-</div>
+</div></div>
 
 <br/>
 <hr/>
