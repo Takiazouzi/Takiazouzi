@@ -55,7 +55,7 @@
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/tree/output/github-contribution-grid-snake.svg" 
+    src="[https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/tree/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/47c323bc47a8f6a69bccecbba26610aa7146e2b3/github-contribution-grid-snake.svg?token=ASATX4ZQ6TMI3NARROZFR43KAFLIO)" 
     alt="GitHub Contribution Snake" 
     width="100%" 
   />
