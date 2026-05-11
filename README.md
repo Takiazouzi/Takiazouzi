@@ -51,15 +51,14 @@
 <hr/>
 
 <div align="center">
-## 🐍 My Contribution Snake
-  
-  <!-- Light theme snake -->
-  <img src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
-       alt="Contribution snake" 
-       width="100%" />
-  
-  <!-- Optional: Dark theme toggle (requires JS or manual swap) -->
-  <!-- <img src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake-dark.svg" /> -->
+ 🐍 Contribution Snake
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake" 
+    width="100%" 
+  />
 </div>
 
 <br/><br/>
