@@ -56,33 +56,18 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🐧 Systems & Development
-
-<img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,nodejs,typescript,django,react" />
-
-</td>
-
-<td align="center" width="50%">
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,mysql,mongodb,figma" />
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,nodejs,typescript,django,react&perline=8" />
 
 <br/>
 
-### 🔐 Security & Research
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,mysql,mongodb,figma&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=wireshark,nmap,metasploit,tensorflow" />
+<br/>
 
-</div><br/>
+<img src="https://skillicons.dev/icons?i=wireshark,nmap,metasploit,tensorflow&perline=4" />
+
+</div>
+<br/>
 <hr/>
 <br/>
 
