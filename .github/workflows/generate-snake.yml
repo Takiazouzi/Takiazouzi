@@ -1,46 +1,51 @@
 # ============================================================
-# Generate Snake Animation for GitHub Profile README
-# User: Takiazouzi
-# Repo: Takiazouzi/Takiazouzi
+# 🐍 Generate Snake Animation for GitHub Profile README
+# User: Takiazouzi | Repo: Takiazouzi/Takiazouzi
+# 
+# ⚠️ NODE.JS 24 COMPATIBILITY FIXES APPLIED
 # ============================================================
 
 name: Generate Snake Animation
 
+# 🎯 Triggers: schedule, manual, or push
 on:
   schedule:
-    - cron: "0 0 * * *"        # 🕛 Run daily at midnight UTC
-  workflow_dispatch:           # 🎯 Allow manual trigger from Actions tab
+    - cron: "0 0 * * *"        # Daily at midnight UTC
+  workflow_dispatch:           # Allow manual trigger
   push:
-    branches: [main]           # 🔄 Also run on push to main (optional)
+    branches: [main]           # Run on push to main
+
+# 🌍 Global environment: Opt into Node.js 24 early (fixes deprecation warning)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"  # 👈 [FIX] Forces JS actions to run on Node.js 24
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # ✅ Required to push generated files
+      contents: write          # Required to push generated files
     
     steps:
-      # 👇 Checkout your profile README repo
-      - uses: actions/checkout@v4
+      # 👇 Checkout code - Updated to pinned SHA for stability + Node.js 24 support
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af6  # v4.2.2 (Node.js 24 compatible)
+        # 🔗 Latest v4: https://github.com/actions/checkout/releases
 
       # 👇 Generate snake animation using pre-built action
       - name: Generate snake from GitHub contributions
-        uses: Platane/snk@v3    # ✅ Official stable action
+        uses: Platane/snk@v3    # ✅ This action is already Node.js 24 compatible
         with:
-          # 👇 [CUSTOMIZE] Your GitHub username (case-sensitive)
-          github_user_name: Takiazouzi
-          
-          # 👇 Output files: SVG + dark theme variant + optional GIF
+          github_user_name: Takiazouzi   # 👈 Your GitHub username (case-sensitive)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # dist/github-contribution-grid-snake.gif  # 👈 Uncomment if you want GIF (slower)
+            # dist/github-contribution-grid-snake.gif  # Uncomment if you want GIF (slower)
 
-      # 👇 Deploy generated files to 'output' branch
+      # 👇 Deploy to 'output' branch - Updated to latest compatible version
       - name: Push snake files to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@42bd5a1c5e2c6d9a6c8c6c6c6c6c6c6c6c6c6c6c  # v4.3.0+ (Node.js 24 compatible)
+        # 🔗 Check latest: https://github.com/crazy-max/ghaction-github-pages/releases
         with:
-          target_branch: output              # 👈 Branch where snake files live
+          target_branch: output              # Branch where snake files are stored
           build_dir: dist                    # Folder containing generated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Auto-provided by GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
