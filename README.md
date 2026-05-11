@@ -68,14 +68,17 @@
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-</p>
+<img height="50" src="https://cdn.simpleicons.org/wireshark/1679A7" />
+<img width="12" />
+<img height="50" src="https://cdn.simpleicons.org/metasploit/2596CD" />
+<img width="12" />
+<img height="50" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
+<img width="12" />
+<img height="50" src="https://cdn.simpleicons.org/postman/FF6C37" />
+<img width="12" />
+<img height="50" src="https://cdn.simpleicons.org/kalilinux/557C94" />
+<img width="12" />
+<img height="50" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
 
 
 </div>
