@@ -84,7 +84,7 @@
 
 <img 
   alt="snake eating my contributions" 
-  src="https://raw.githubusercontent.com/takieddin/takieddin/output/github-contribution-grid-snake.svg" 
+  src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
 />
 
 <br/><br/>
@@ -95,60 +95,32 @@
 
 <br/>
 
-<h2 align="center">⚡ htop --stats ⚡</h2>
+<h2 align="center"> My Stats ⚡</h2>
 
 <br/>
 
 <div align="center">
 
 <img 
-  width="390" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=takieddin&count_private=true&theme=radical&border_radius=10" 
+  width="60%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Takiazouzi&count_private=true&theme=radical&border_radius=10" 
   alt="streak stats"
 />
 
-<img 
-  width="390" 
-  src="https://github-readme-stats.vercel.app/api?username=takieddin&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" 
-  alt="readme stats" 
-/>
-
-<br/><br/>
-
-<img 
-  width="325" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=takieddin&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-  alt="top langs" 
-/>
-
 </div>
 
-<br/>
-<hr/>
-<br/>
+<br>
 
 <div align="center">
 
-<h3>📡 nc -lvnp connect_port</h3>
+<h3>📡 nc -lvnp 4444</h3>
 
 <p>
-Open to connecting with anyone in the cybersecurity space, whether you're just starting out or years ahead.
+Waiting for reverse connect shell on port 4444 ..... 
 </p>
 
 </div>
 
 <br/>
 
-<div align="center">
 
-<a href='https://ko-fi.com/takieddin' target='_blank'>
-  <img 
-    height='64' 
-    src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' 
-    alt='Buy Me a Coffee at ko-fi.com' 
-  />
-</a>
-
-</div>
-
-<br/>
