@@ -67,7 +67,7 @@
 
   <!-- 🔥 Streak Stats - Forgejo Dark -->
   <img 
-    width="80%" 
+    width="60%" 
     src="https://streak-stats.demolab.com/?user=Takiazouzi&count_private=true&theme=dark&border_radius=10&hide_border=true&background=1c1c1c&ring=54a3ff&fire=54a3ff&currStreakLabel=689bff&sideLabels=d0d0d0&currStreakNum=689bff&sideNums=d0d0d0" 
     alt="GitHub Streak Stats"
   />
