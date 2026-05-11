@@ -48,7 +48,6 @@
 
 <br/>
 <hr/>
-<br/>
 
 <h2 align="center">⚒️ ls -la ~/skills ⚒️</h2>
 
@@ -58,26 +57,29 @@
 
 <img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,javascript,typescript&perline=7" />
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react,chartjs&perline=6" />
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,oracle&perline=4" />
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,tensorflow&perline=6" />
 
-</div></div>
+</div>
 
 <br/>
+<hr/>
 
 <div align="center">
 
 <h2>🐍 my_contributions.sh 🐍</h2>
-<hr>
+
+<hr/>
+
 <img 
   alt="snake eating my contributions" 
   src="https://github.com/Takiazouzi/Takiazouzi/blob/output/github-contribution-grid-snake.svg" 
@@ -86,7 +88,9 @@
 </div>
 
 <h2 align="center"> My Stats ⚡</h2>
+
 <hr/>
+
 <div align="center">
 
 <img 
@@ -97,18 +101,14 @@
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
 <h3>📡 nc -lvnp 4444</h3>
 
-<h3>
-Waiting for reverse connect shell on port 4444 ..... 
-</h3>
+<h3>Waiting for reverse connect shell on port 4444 ..... </h3>
 
 </div>
 
 <br/>
-
-
