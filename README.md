@@ -94,7 +94,6 @@
 <br>
 
 <h2 align="center"> My Stats ⚡</h2>
-<br/>
 <hr/>
 <br/>
 
