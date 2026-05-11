@@ -1,31 +1,46 @@
-# .github/workflows/generate-snake.yml
+# ============================================================
+# Generate Snake Animation for GitHub Profile README
+# User: Takiazouzi
+# Repo: Takiazouzi/Takiazouzi
+# ============================================================
+
 name: Generate Snake Animation
 
 on:
-  push:
-    branches: [main]
   schedule:
-    - cron: "0 0 * * *" # Daily update
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 0 * * *"        # 🕛 Run daily at midnight UTC
+  workflow_dispatch:           # 🎯 Allow manual trigger from Actions tab
+  push:
+    branches: [main]           # 🔄 Also run on push to main (optional)
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write          # ✅ Required to push generated files
+    
     steps:
+      # 👇 Checkout your profile README repo
       - uses: actions/checkout@v4
 
-      - name: Generate snake animation
-        uses: Platane/snk@v3 # 👈 Use the pre-built action
+      # 👇 Generate snake animation using pre-built action
+      - name: Generate snake from GitHub contributions
+        uses: Platane/snk@v3    # ✅ Official stable action
         with:
-          github_user_name: Takiazouzi # 👈 [CUSTOMIZE] Your GitHub username
+          # 👇 [CUSTOMIZE] Your GitHub username (case-sensitive)
+          github_user_name: Takiazouzi
+          
+          # 👇 Output files: SVG + dark theme variant + optional GIF
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # dist/github-contribution-grid-snake.gif  # 👈 Uncomment if you want GIF (slower)
 
-      - name: Deploy to output branch
+      # 👇 Deploy generated files to 'output' branch
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output # 👈 [CUSTOMIZE] Branch where snake files will be stored
-          build_dir: dist
+          target_branch: output              # 👈 Branch where snake files live
+          build_dir: dist                    # Folder containing generated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ Auto-provided by GitHub
