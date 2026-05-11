@@ -79,19 +79,14 @@
 <div align="center">
 
 <h2>🐍 my_contributions.sh 🐍</h2>
-
-<br/>
-
+<hr>
+<hr/>
 <img 
   alt="snake eating my contributions" 
   src="https://github.com/Takiazouzi/Takiazouzi/blob/output/github-contribution-grid-snake.svg" 
 />
 
-<br/><br/>
-
 </div>
-
-<br>
 
 <h2 align="center"> My Stats ⚡</h2>
 <hr/>
