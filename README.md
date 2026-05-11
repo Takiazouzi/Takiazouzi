@@ -66,16 +66,35 @@
 <hr/>
 
 <br/>
+<hr/>
 
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<br>
 <div align="center">
-  <h3>📡 nc -lvnp connect_port</h3>
-  <p>Open to connecting with anyone in the cybersecurity space, whether you're just starting out or years ahead.</p>
+
+  <!-- 🔥 Streak Stats - Forgejo Dark -->
+  <img 
+    width="390" 
+    src="https://streak-stats.demolab.com/?user=Takiazouzi&count_private=true&theme=dark&border_radius=10&hide_border=true&background=1c1c1c&ring=54a3ff&fire=54a3ff&currStreakLabel=689bff&sideLabels=d0d0d0&currStreakNum=689bff&sideNums=d0d0d0" 
+    alt="GitHub Streak Stats"
+  />
+
+  <!-- 📈 Overall Stats - Forgejo Dark (custom colors) -->
+  <img 
+    width="390" 
+    src="https://github-readme-stats.vercel.app/api?username=Takiazouzi&count_private=true&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&bg_color=1c1c1c&title_color=54a3ff&text_color=d0d0d0&icon_color=689bff&ring_color=689bff" 
+    alt="GitHub Readme Stats"
+  />
+
+  <br/>
+
+  <!-- 💻 Top Languages - Forgejo Dark -->
+  <img 
+    width="325" 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takiazouzi&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&bg_color=1c1c1c&title_color=54a3ff&text_color=d0d0d0&icon_color=689bff" 
+    alt="Top Languages"
+  />
+
 </div>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/takieddin' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
 <br/>
