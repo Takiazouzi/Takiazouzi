@@ -56,17 +56,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,nodejs,typescript,django,react&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,nodejs,typescript&perline=6" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,mysql,mongodb,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=django,react,git,github,docker,aws&perline=6" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=wireshark,nmap,metasploit,tensorflow&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,figma,tensorflow,kali&perline=6" />
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=wireshark,nmap,postman,powershell,regex,ubuntu&perline=6" />
 </div>
+</div>
+
 <br/>
 <hr/>
 <br/>
