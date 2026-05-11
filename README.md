@@ -10,7 +10,7 @@
 
 <div align="center">
 
-`$ whoami` → **Taki Eddin Azouzi**
+`$ whoami` → **Taki Eddin Azouzi cybersecurity engineering student**
 
 `$ cat /etc/mindset.conf` → **Offensive mindset & Defensive knowledge**
 
