@@ -57,10 +57,8 @@
   <img 
     src="https://github.com/Takiazouzi/Takiazouzi/blob/output/github-contribution-grid-snake.svg" 
     alt="GitHub Contribution Snake" 
-    width="100%" 
+    width="80%" 
   />
-<img src="" />
-
 </div>
 
 <br/><br/>
