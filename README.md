@@ -91,9 +91,7 @@
 
 </div>
 
-<hr/>
-
-<br/>
+<br>
 
 <h2 align="center"> My Stats ⚡</h2>
 
