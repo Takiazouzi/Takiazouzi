@@ -56,62 +56,21 @@
 
 <div align="center">
 
-## 🐧 Systems & Infrastructure
-_Core environments & operating systems_
+<img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,javascript,typescript&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=linux,bash&perline=2" />
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react,chartjs&perline=6" />
 
-## 🔐 Networking & Web Infrastructure
-_Servers, routing, and backend delivery_
-
-<img src="https://skillicons.dev/icons?i=nginx,aws&perline=2" />
-
----
-
-## 💻 Programming Languages
-_Core development languages_
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript&perline=3" />
-
----
-
-## ⚙️ Backend Development
-_APIs, frameworks & services_
-
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express&perline=4" />
-
----
-
-## 🧠 Frontend & Visualization
-_UI development & data visualization_
-
-<img src="https://skillicons.dev/icons?i=react,chartjs&perline=2" />
-
----
-
-## 🗄️ Databases
-_Data storage & management systems_
+<br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,oracle&perline=4" />
 
----
+<br/>
 
-## 🧰 DevOps & Tools
-_Version control, containers & workflows_
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,tensorflow&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=git,docker&perline=2" />
-
----
-
-## 🤖 Data & AI
-_Machine learning & intelligent systems_
-
-<img src="https://skillicons.dev/icons?i=tensorflow&perline=1" />
-
-</div>
-</div>
+</div></div>
 
 <br/>
 <hr/>
