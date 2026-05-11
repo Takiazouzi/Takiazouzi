@@ -49,7 +49,7 @@
 </div>
 
 <br/>
-<h2 align="center"> My Contributions 🐉</h2>
+<h2 align="center"> my_contributions.sh 🐉</h2>
 <br>
 <div align="center">
   <img 
@@ -60,16 +60,22 @@
 </div>
 <br>
 <hr/>
-<h2 align="center"> My GitHub Stats ⚡</h2>
+<h2 align="center"> my_github_stat.sh ⚡</h2>
 <br>
 <br>
 <div align="center">
 
   <!-- 🔥 Streak Stats - Forgejo Dark -->
   <img 
-    width="390" 
+    width="80%" 
     src="https://streak-stats.demolab.com/?user=Takiazouzi&count_private=true&theme=dark&border_radius=10&hide_border=true&background=1c1c1c&ring=54a3ff&fire=54a3ff&currStreakLabel=689bff&sideLabels=d0d0d0&currStreakNum=689bff&sideNums=d0d0d0" 
     alt="GitHub Streak Stats"
   />
 </div>
+
+<div align="center">
+  <h3>📡 nc -lvnp 4444</h3>
+  <p>waiting to  connect with you in the cybersecurity space, whether you're just starting out or years ahead.</p>
+</div>
+
 <br/>
