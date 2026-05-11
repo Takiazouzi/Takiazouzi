@@ -50,16 +50,8 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,typescript&perline=7" />
-<br>
-
 <img src="https://skillicons.dev/icons?i=django,javascript,flask,nodejs,express,react,chartjs&perline=7" />
-<br>
-
-
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,oracle&perline=4" />
-<br>
-
-
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,tensorflow&perline=6" />
 
 </div>
