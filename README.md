@@ -51,15 +51,15 @@
 <hr/>
 
 <div align="center">
- 🐍 Contribution Snake
+ 🐍 My Contributions
 
 <div align="center">
   <img 
-    src="[https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/tree/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/47c323bc47a8f6a69bccecbba26610aa7146e2b3/github-contribution-grid-snake.svg?token=ASATX4ZQ6TMI3NARROZFR43KAFLIO)" 
+    src="https://github.com/Takiazouzi/Takiazouzi/blob/output/github-contribution-grid-snake.svg" 
     alt="GitHub Contribution Snake" 
     width="100%" 
   />
-<img src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/tree/output/github-contribution-grid-snake.svg" />
+<img src="" />
 
 </div>
 
