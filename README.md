@@ -20,7 +20,7 @@
 
 🌱 I’m currently learning **Docker, AWS, Advanced CTF Techniques & OSINT Methodologies**
 
-💬 Ask me about **Red Hat Linux, Network Security, Penetration Testing, Source Intelligence... or open an issue [here](https://github.com/takieddin/takieddin/issues)**
+💬 Ask me about **Red Hat Linux, Network Security, Penetration Testing ... 
 
 ⚡ Fun fact: **The most dangerous vulnerability is the one you never scanned for**
 
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-<h2 align="center">ls -la ~/skills </h2>
+<h2 align="center"> `$ ls -la ~/skills `  </h2>
 
 <div align="center">
 
