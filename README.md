@@ -51,22 +51,15 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 my_contributions.sh 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/takieddin/takieddin/output/github-contribution-grid-snake.svg" />
+## 🐍 My Contribution Snake
   
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ htop --stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=takieddin&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=takieddin&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takieddin&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- Light theme snake -->
+  <img src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
+       alt="Contribution snake" 
+       width="100%" />
+  
+  <!-- Optional: Dark theme toggle (requires JS or manual swap) -->
+  <!-- <img src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake-dark.svg" /> -->
 </div>
 
 <br/><br/>
