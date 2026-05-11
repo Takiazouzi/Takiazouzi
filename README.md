@@ -84,7 +84,7 @@
 
 <img 
   alt="snake eating my contributions" 
-  src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
+  src="https://github.com/Takiazouzi/Takiazouzi/blob/output/github-contribution-grid-snake.svg" 
 />
 
 <br/><br/>
