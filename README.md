@@ -12,7 +12,7 @@
 
 `$ whoami` → **Taki Eddin Azouzi cybersecurity engineering student**
 
-`$ cat /etc/mindset.conf` → **Offensive mindset & Defensive knowledge**
+`$ cat /etc/aboutme.conf` → **Offensive mindset & Defensive knowledge**
 
 `$ pwd` → `/home/taki/cybersecurity/journey`
 
