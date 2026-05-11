@@ -45,40 +45,28 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-<br/>
-<hr/>
-
 <h2 align="center">⚒️ ls -la ~/skills ⚒️</h2>
-
-<br/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,javascript,typescript&perline=7" />
 
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react,chartjs&perline=6" />
 
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,oracle&perline=4" />
 
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,tensorflow&perline=6" />
 
 </div>
 
-<br/>
-<hr/>
 
 <div align="center">
 
 <h2>🐍 my_contributions.sh 🐍</h2>
 
-<hr/>
 
 <img 
   alt="snake eating my contributions" 
@@ -89,7 +77,6 @@
 
 <h2 align="center"> My Stats ⚡</h2>
 
-<hr/>
 
 <div align="center">
 
@@ -101,7 +88,6 @@
 
 </div>
 
-<br/>
 
 <div align="center">
 
@@ -111,4 +97,3 @@
 
 </div>
 
-<br/>
