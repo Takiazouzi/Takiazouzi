@@ -49,10 +49,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,javascript,typescript&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,typescript&perline=7" />
 <br>
 
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react,chartjs&perline=6" />
+<img src="https://skillicons.dev/icons?i=django,javascript,flask,nodejs,express,react,chartjs&perline=7" />
 <br>
 
 
