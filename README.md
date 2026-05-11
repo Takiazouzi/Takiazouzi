@@ -52,7 +52,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg?color_snake=54a3ff&color_dots=2a2a2a,3a5ea6,4a7ad6,5a9aff,689bff&color_background=1c1c1c" 
+    src="https://raw.githubusercontent.com/Takiazouzi/Takiazouzi/output/github-contribution-grid-snake.svg" 
     alt="GitHub Contribution Snake - Forgejo Dark" 
     width="100%" 
   />
