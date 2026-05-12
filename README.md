@@ -65,13 +65,11 @@
 
 
 <div align="center">
-
 <img 
   width="60%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Takiazouzi&count_private=true&theme=radical&border_radius=10" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Takiazouzi&theme=radical&border_radius=10&cache_seconds=0" 
   alt="streak stats"
 />
-
 </div>
 
 
