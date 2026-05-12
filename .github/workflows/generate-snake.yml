@@ -1,7 +1,7 @@
 # ============================================================
 # 🐍 Generate Snake Animation for GitHub Profile README
 # User: Takiazouzi | Repo: Takiazouzi/Takiazouzi
-# 
+#
 # ✅ NODE.JS 24 COMPATIBLE - Using verified action versions
 # ============================================================
 
@@ -14,45 +14,68 @@ on:
   push:
     branches: [main]           # Run on push to main
 
-# 🌍 Force JavaScript actions to use Node.js 24 (prevents deprecation warnings)
+# 🌍 Force JavaScript actions to use Node.js 24
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
+
+  # ============================================================
+  # 🐍 SNAKE ANIMATION JOB
+  # ============================================================
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # Required to push generated files
-    
+      contents: write
+
     steps:
-      # ------------------------------------------------------------
-      # STEP 1: Checkout repository
-      # ✅ Using v5.0.0 - Node.js 24 compatible (requires runner v2.327.1+)
-      # Your runner: 2.334.0 ✓ meets requirement
-      # ------------------------------------------------------------
       - uses: actions/checkout@v5.0.0
 
-      # ------------------------------------------------------------
-      # STEP 2: Generate snake animation
-      # ✅ Platane/snk@v3 is already Node.js 24 compatible
-      # ------------------------------------------------------------
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Takiazouzi   # 👈 Your GitHub username (case-sensitive)
+          github_user_name: Takiazouzi
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # dist/github-contribution-grid-snake.gif  # Uncomment for GIF output
 
-      # ------------------------------------------------------------
-      # STEP 3: Deploy to output branch
-      # ✅ Using v5.0.0 - Node.js 24 compatible (requires runner v2.327.1+)
-      # ------------------------------------------------------------
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
-          target_branch: output              # Branch for generated files
-          build_dir: dist                    # Folder to deploy
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+  # ============================================================
+  # 📊 STATS REFRESH JOB (ADDED)
+  # ============================================================
+  refresh-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5.0.0
+
+      - name: Update GitHub stats cache_bust
+        run: |
+          TIMESTAMP=$(date +%s)
+          FILE="README.md"
+
+          if grep -q "cache_bust=" "$FILE"; then
+            sed -i "s/cache_bust=[0-9]*/cache_bust=$TIMESTAMP/g" "$FILE"
+          else
+            sed -i "s|\(github-readme-streak-stats.*\?\)|\1&cache_bust=$TIMESTAMP|g" "$FILE"
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add README.md
+          git commit -m "🔄 Refresh GitHub stats cache" || echo "No changes"
+          git push
