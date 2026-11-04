@@ -10,19 +10,13 @@
 
 <div align="center">
 
-`$ whoami` → **Taki Eddin Azouzi cybersecurity engineering student**
+`$ whoami` → **rootfs**
 
-`$ cat /etc/aboutme.conf` → **Offensive mindset & Defensive knowledge**
+`$ cat /etc/aboutme.conf` → **cloud security & cybersec  **
 
 `$ pwd` → `/home/taki/cybersecurity/journey`
 
-🔭 I’m currently working on **building a solid foundation in Networking, Red Hat Systems & Offensive Security**
-
-🌱 I’m currently learning **Docker, AWS, Advanced CTF Techniques & OSINT Methodologies**
-
-💬 Ask me about **Red Hat Linux, Network Security, Penetration Testing ... 
-
-⚡ Fun fact: **The most dangerous vulnerability is the one you never scanned for**
+ I’m currently working on **building foundation in Networking, Red Hat Systems & Cloud Security**
 
 </div>
 
@@ -41,17 +35,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,redhat,kali,bash,python,typescript&perline=7" />
-<img src="https://skillicons.dev/icons?i=django,javascript,flask,nodejs,express,react,chartjs&perline=7" />
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,oracle&perline=4" />
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,tensorflow&perline=6" />
+<img src="https://skillicons.dev/icons?i=redhat,bash,python&perline=7" />
+<img src="https://skillicons.dev/icons?i=django,flask,,react,chartjs&perline=7" />
+<img src="https://skillicons.dev/icons?i=mysql,redis&perline=4" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=6" />
 
 </div>
 
 
 <div align="center">
 
-<h2>🐍 my_contributions.sh 🐍</h2>
+<h2>🐍 contributions.sh 🐍</h2>
 
 
 <img 
@@ -61,7 +55,7 @@
 
 </div>
 
-<h2 align="center"> my_stats.sh ⚡</h2>
+<h2 align="center"> stats.sh ⚡</h2>
 
 
 <div align="center">
@@ -71,13 +65,3 @@
   alt="streak stats"
 />
 </div>
-
-
-<div align="center">
-
-<h3>📡 nc -lvnp 4444</h3>
-
-<h3>Waiting for reverse connect shell on port 4444 ..... </h3>
-
-</div>
-
