@@ -10,13 +10,11 @@
 
 <div align="center">
 
-`$ whoami` → **rootfs**
+`$ whoami` → **who are you ?**
 
 `$ cat /etc/aboutme.conf` → **cloud security & cybersec  **
 
-`$ pwd` → `/home/taki/cybersecurity/journey`
-
- I’m currently working on **building foundation in Networking, Red Hat Systems & Cloud Security**
+`$ pwd` → `/cybersecurity/journey`
 
 </div>
 
@@ -36,7 +34,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=redhat,bash,python&perline=7" />
-<img src="https://skillicons.dev/icons?i=django,flask,,react,chartjs&perline=7" />
+<img src="https://skillicons.dev/icons?i=django,flask&perline=7" />
 <img src="https://skillicons.dev/icons?i=mysql,redis&perline=4" />
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=6" />
 
