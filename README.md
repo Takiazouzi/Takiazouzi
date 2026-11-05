@@ -21,12 +21,8 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:takiazouzi0@gmail.com">
+  <a href="mailto:example@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/taki-eddin-azouzi-84a19b2b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 <h2 align="center"> $ ls -la ~/skills   </h2>
