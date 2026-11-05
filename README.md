@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+Taki+Eddin+Azouzi;+./init_cyberjourney.sh" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+23bits;+./init_cyberjourney.sh" 
   />
 </h1>
 
