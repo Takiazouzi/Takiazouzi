@@ -55,7 +55,7 @@
 <div align="center">
 <img 
   width="60%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Takiazouzi&theme=radical&border_radius=10&cache_bust=1794071527" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Takiazouzi&theme=radical&border_radius=10&cache_bust=1794085552" 
   alt="streak stats"
 />
 </div>
