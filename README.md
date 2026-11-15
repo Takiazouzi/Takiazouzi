@@ -12,7 +12,7 @@
 
 `$ whoami` → **who are you ?**
 
-`$ cat /etc/aboutme.conf` → **cloud security & cybersec  **
+`$ cat /etc/aboutme.conf` → **cloud security & cybersec**
 
 `$ pwd` → `/cybersecurity/journey`
 
